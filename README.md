@@ -12,18 +12,18 @@ whose images are in HR, they were cut.
 This dataset is just for Edge Detection
 not contour nor Boundary tasks.
 
-# How to evaluate UDED
+## How to evaluate UDED
 
 ...In construction but images are ready to download...
 
-# Clarification
+## Clarification
 This repository has been released for research and academic
 purpose. If the authors of the different datasets cited
 above do not wish their images to be included in UDED,
 we will remove them immediately.
 
 
-# Citation
+## Citation
 
 If you like UDED, why not starring the project on GitHub!
 
