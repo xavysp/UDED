@@ -8,11 +8,13 @@ selection process consists on computing the Inter-Quartile
 Range (IQR) intensity value on all the images, images 
 larger than 720×720 pixels were not considered. In dataset
 whose images are in HR, they were cut. 
-*We thank all the datasets owners to make them public*
+*We thank all the datasets owners to make them public.*
 This dataset is just for Edge Detection
 not contour nor Boundary tasks.
 
-<<In contruction>>
+# How to evaluate UDED
+
+...In construction but images are ready to download...
 
 # Clarification
 This repository has been released for research and academic
