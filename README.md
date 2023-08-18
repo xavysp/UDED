@@ -18,6 +18,8 @@ not contour nor Boundary tasks.
 
 ## Benchmarking
 
+Please, check the Leaderboard [here](https://paperswithcode.com/sota/edge-detection-on-uded).
+
 ## Clarification
 This repository has been released for research and academic
 purpose. If the authors of the different datasets cited
