@@ -35,12 +35,14 @@ If you like UDED, why not starring the project on GitHub!
 
 Please cite our Dataset if you find helpful in your academic/scientific publication,
 ```
-@inproceedings{xsoria2023teed,
-    author={Soria, Xavier and Li, Yachuan and Rouhani, Mohammad and Sappa, Angel Domingo},
-    booktitle={Proceedings of the IEEE/CVF international conference on computer vision Workshop (ICCVW)},
-    title={Tiny and Efficient Model for the Edge Detection Generalization},
-    year={2023},
-  pages={0},
-  doi={00.0000/00000.2023.00000}}
+@INPROCEEDINGS{soria2023teed,
+  author={Soria, Xavier and Li, Yachuan and Rouhani, Mohammad and Sappa, Angel D.},
+  booktitle={2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)}, 
+  title={Tiny and Efficient Model for the Edge Detection Generalization}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1356-1365},
+  doi={10.1109/ICCVW60793.2023.00147}}
 ```
 
